@@ -3,7 +3,7 @@ img{
 }
 section{
     border-width: 1px; /* 枠線を1px䛾太さに設定 */
-    border-color:gray; /* 枠線䛾色をグレーに設定 */
+    border-color:rgb(169, 164, 170); /* 枠線䛾色をグレーに設定 */
     border-style: solid; /* 枠線䛾種類を実践に設定 */
     border-radius: 8px; /* 枠線䛾角を丸くする */
     padding: 16px; /* 内側䛾余白を16pxに設定 */
